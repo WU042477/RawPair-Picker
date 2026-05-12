@@ -233,6 +233,10 @@ Selected and rated
 
 This design supports flexible photography workflows.
 
+## Interface Preview
+
+![Photo Select Pro Interface](assets/screenshots/ui.png)
+
 ---
 
 ### 4.7 Star Rating System
