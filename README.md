@@ -3,7 +3,7 @@
 
 A professional local desktop tool for photographers to select JPG preview images and automatically export the matching RAW / JPG / XMP files by filename.
 
-中文：专业的 JPG + RAW 成组选片与导出工具。
+专业的 JPG + RAW 成组选片与导出工具。
 
 ---
 
