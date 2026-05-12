@@ -235,7 +235,9 @@ This design supports flexible photography workflows.
 
 ## Interface Preview
 
-![Photo Select Pro Interface](assets/screenshots/ui.png)
+<p align="center">
+  <img src="RawPair-Picker/assets/screenshots/ui.png.png" alt="RawPair Picker interface preview" width="900">
+</p>
 
 ---
 
